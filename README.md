@@ -62,17 +62,17 @@
 **Tech:** Three.js · JavaScript · GitHub API
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-Khobragade/portfolio)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_WEBSITE)
+[![Live Demo](https://reyanshyadav.com.np/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 bad-apple-nodejs
+### 🎬 Mac-book
 > Play the iconic Bad Apple!! animation directly in your terminal — a creative showcase of Node.js streams and CLI rendering.
 
 **Tech:** Node.js · JavaScript · CLI
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-Khobragade/bad-apple-nodejs)
+[![View Repo]( https://macbook-three-kappa.vercel.app)
 ![Stars](https://img.shields.io/github/stars/Reyansh-Khobragade/bad-apple-nodejs?style=flat-square&color=F7DF1E)
 
 </td>
@@ -80,7 +80,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Rey Stalker Bot
+### 🤖 Nexus
 > A feature-rich Discord bot with real-time tracking and notification capabilities, used by multiple servers.
 
 **Tech:** Node.js · Discord.js · JavaScript
