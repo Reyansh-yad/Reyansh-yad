@@ -9,9 +9,9 @@
 <br/>
 
 <!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Reyansh-Khobragade&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Reyansh-yad&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Reyansh-Khobragade?style=for-the-badge&color=0ea5e9&labelColor=1a1a2e&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/Reyansh-yad?style=for-the-badge&color=0ea5e9&labelColor=1a1a2e&label=FOLLOWERS" />
 
 <br/><br/>
 
