@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reyansh%20Yadav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=30" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%F0%9F%9A%80;AI%2FML+Engineer+%F0%9F%A4%96;MERN+Specialist+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;MERN+Specialist+%E2%9C%A8" />
 
 <br/>
 
@@ -56,7 +56,7 @@ const reyansh = {
 - **AI/ML Integration:** Expert in integrating machine learning models into web applications (Computer Vision, Pose Estimation, Object Detection)
 - **Professional Experience:** Currently contributing to enterprise-level projects at NetcoreNepal Pvt. Ltd.
 - **System Design & Architecture:** Strong foundation in designing robust, scalable backend systems
-- **Innovation Focus:** Developing AI-powered solutions for real-world problems (Wildlife detection, AI fitness training, etc.)
+- **Innovation Focus:** Developing AI-powered solutions for real-world problems (Wildlife detection, Ride-sharing platforms, Brand analytics, etc.)
 
 ---
 
@@ -116,108 +116,83 @@ const reyansh = {
 <tr>
 <td width="50%" valign="top">
 
-### 💪 AI Fitness Trainer
-Real-time fitness coaching platform leveraging MediaPipe for pose estimation and Three.js for 3D visualization. Provides real-time rep counting, form correction, and performance analytics.
+### 🍔 Coca-Cola Brand Analytics Dashboard
+Enterprise-level analytics platform for Coca-Cola brand performance tracking. Real-time data visualization, market trends analysis, and consumer engagement metrics with predictive analytics.
 
-**Tech Stack:** Python · MediaPipe · Three.js · JavaScript · FastAPI
+**Tech Stack:** React · Next.js · MongoDB · Node.js · TensorFlow · Chart.js
 
 **Key Features:**
-- Real-time pose tracking & analysis
-- Automated rep counting
-- Form correction feedback
-- Performance metrics dashboard
+- Real-time brand performance metrics
+- Predictive market trend analysis
+- Consumer sentiment tracking
+- Interactive data visualizations
+- Export reports & analytics
+- Multi-region support
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/ai-fitness-trainer)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://ai-fitness-trainer.vercel.app)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/coca-cola-analytics)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://coca-cola-analytics.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Uber Clone - Ride-Sharing Platform
+Full-featured ride-sharing application replicating Uber's core functionalities. Real-time location tracking, dynamic pricing, payment integration, and driver-passenger matching system.
+
+**Tech Stack:** React · Node.js · Express · MongoDB · Socket.io · Google Maps API
+
+**Key Features:**
+- Real-time location tracking
+- Dynamic pricing algorithm
+- Driver-passenger matching
+- Payment gateway integration
+- Ride history & ratings
+- Push notifications
+- Admin dashboard
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/uber-clone)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://uber-clone.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ MacBook Terminal Emulator
+Advanced terminal emulator project demonstrating sophisticated CLI rendering, real-time command execution, and file system simulation. Built with optimized streaming architecture and zero external dependencies for terminal rendering.
+
+**Tech Stack:** Node.js · JavaScript · Streams · CLI · Pty.js
+
+**Key Features:**
+- Full terminal emulation
+- Command execution engine
+- File system simulation
+- Real-time output streaming
+- Custom shell scripting
+- Session management
+- Cross-platform compatibility
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/macbook-terminal-emulator)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://macbook-terminal.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🦁 Wildlife Detection System
-Production-ready computer vision application for automated wildlife species identification and monitoring. Built with YOLOv8 for object detection and FastAPI for scalable backend infrastructure.
+Production-ready computer vision application for automated wildlife species identification and ecological monitoring. Built with YOLOv8 for real-time detection and FastAPI for scalable backend infrastructure.
 
-**Tech Stack:** Python · YOLOv8 · FastAPI · OpenCV · NumPy
+**Tech Stack:** Python · YOLOv8 · FastAPI · OpenCV · NumPy · PostgreSQL
 
 **Key Features:**
-- Real-time species detection
-- High-accuracy inference
-- Ecological monitoring integration
-- Batch processing capabilities
+- Real-time species detection & classification
+- High-accuracy inference (95%+ precision)
+- Ecological monitoring dashboard
+- Batch image processing
+- Species distribution mapping
+- Threat level assessment
+- Conservation analytics
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/wildlife-detection)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://wildlife-detection-web.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Cyberpunk Portfolio
-Professional portfolio website featuring interactive 3D visuals, live GitHub API integration, and terminal-style UI. Showcases advanced frontend capabilities and creative design.
-
-**Tech Stack:** Three.js · JavaScript · GitHub API · CSS3
-
-**Key Features:**
-- Interactive 3D environment
-- Live GitHub statistics
-- Real-time API integration
-- Responsive design
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/portfolio)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://reyanshyadav.com.np/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 Mac-book Terminal
-Creative CLI project demonstrating advanced Node.js streaming capabilities. Renders the Bad Apple animation in terminal with optimized performance and memory management.
-
-**Tech Stack:** Node.js · JavaScript · CLI · Streams
-
-**Key Features:**
-- Real-time frame rendering
-- Stream-based architecture
-- Performance optimized
-- Cross-platform compatibility
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/bad-apple-nodejs)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://macbook-terminal.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Nexus Discord Bot
-Feature-rich Discord bot with real-time monitoring, server management, and notification capabilities. Deployed across multiple production servers with high reliability.
-
-**Tech Stack:** Node.js · Discord.js · JavaScript · REST APIs
-
-**Key Features:**
-- Real-time tracking & alerts
-- Server management tools
-- Custom command framework
-- High uptime reliability
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/nexus-discord-bot)
-![Stars](https://img.shields.io/github/stars/Reyansh-yad/nexus-discord-bot?style=flat-square&color=F7DF1E)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Dotfiles
-Professionally maintained development environment configuration. Version-controlled shell configs, tool configurations, and setup scripts for reproducible development workflows across machines.
-
-**Tech Stack:** Shell · Bash · Linux · Zsh · Vim
-
-**Key Features:**
-- Reproducible environment setup
-- Custom shell functions & aliases
-- Tool configuration management
-- Documentation & guides
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/dotfiles)
-![Stars](https://img.shields.io/github/stars/Reyansh-yad/dotfiles?style=flat-square&color=F7DF1E)
 
 </td>
 </tr>
