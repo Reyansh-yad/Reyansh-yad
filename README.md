@@ -129,8 +129,8 @@ Enterprise-level analytics platform for Coca-Cola brand performance tracking. Re
 - Export reports & analytics
 - Multi-region support
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/coca-cola-analytics)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://coca-cola-analytics.vercel.app)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](Reyansh-yad/Coco-Cola)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://coco-cola-six.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -149,7 +149,7 @@ Full-featured ride-sharing application replicating Uber's core functionalities. 
 - Push notifications
 - Admin dashboard
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/uber-clone)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://Reyansh-yad/Uber-Clone)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://uber-clone.vercel.app)
 
 </td>
@@ -157,7 +157,7 @@ Full-featured ride-sharing application replicating Uber's core functionalities. 
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ MacBook Terminal Emulator
+### 🖥️ MacBook 
 Advanced terminal emulator project demonstrating sophisticated CLI rendering, real-time command execution, and file system simulation. Built with optimized streaming architecture and zero external dependencies for terminal rendering.
 
 **Tech Stack:** Node.js · JavaScript · Streams · CLI · Pty.js
@@ -171,8 +171,8 @@ Advanced terminal emulator project demonstrating sophisticated CLI rendering, re
 - Session management
 - Cross-platform compatibility
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/macbook-terminal-emulator)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://macbook-terminal.vercel.app)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/Mac-book)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://coco-cola-six.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
