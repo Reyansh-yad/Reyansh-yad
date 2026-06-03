@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reyansh%20Yadav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=30" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=640&lines=MERN+Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+Engineer+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%F0%9F%9A%80;AI%2FML+Engineer+%F0%9F%A4%96;MERN+Specialist+%E2%9C%A8" />
 
 <br/>
 
@@ -26,29 +26,37 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Professional Profile
 
 ```typescript
 const reyansh = {
-  name:       "Reyansh Yadav",
-  location:   "Kathmandu, Nepal 🇳🇵",
-  role:       "Full-Stack Developer & AI Enthusiast",
-  education:  "Computer Engineering @ Nepal Engineering College (2027)",
-  internship: "Full-Stack Developer Intern @ NetcoreNepal Pvt. Ltd.",
-  stack:      ["React", "Next.js", "Node.js", "Express", "MongoDB", "Python"],
-  ai_ml:      ["OpenCV", "YOLOv8", "MediaPipe", "TensorFlow", "FastAPI"],
-  currently:  "Building AI-powered web apps & exploring computer vision",
-  openTo:     ["Full-Time Roles", "Internships", "Open Source Collabs"],
-  contact:    "reyansh7004@gmail.com",
+  name:          "Reyansh Yadav",
+  title:         "Full-Stack Developer & AI/ML Engineer",
+  location:      "Kathmandu, Nepal 🇳🇵",
+  education:     "B.E. Computer Engineering | Nepal Engineering College (2027)",
+  experience:    {
+    current:     "Full-Stack Developer Intern @ NetcoreNepal Pvt. Ltd.",
+    focus:       "Production-grade MERN applications & AI integration"
+  },
+  expertise:     {
+    fullstack:   ["React", "Next.js", "Node.js", "Express", "MongoDB"],
+    backend:     ["FastAPI", "Python", "RESTful APIs", "System Design"],
+    ai_ml:       ["Computer Vision", "YOLOv8", "MediaPipe", "TensorFlow"],
+    devops:      ["Docker", "Vercel", "Git", "CI/CD"]
+  },
+  specialization: "Building scalable AI-powered web applications with real-time capabilities",
+  availability:  "Open to full-time roles, internships & open-source collaborations",
+  contact:       "reyansh7004@gmail.com"
 };
 ```
 
-- 🏢 Currently interning at **NetcoreNepal Pvt. Ltd.** building production-grade MERN apps
-- 🦁 Working on **automated wildlife species detection** with YOLOv8 + FastAPI
-- 💪 Building an **AI Fitness Trainer** using MediaPipe pose estimation + Three.js
-- 🎨 Obsessed with creative coding — 3D visuals, WebGL, interactive UIs
-- 🌱 Leveling up in **system design**, **cloud architecture**, and **MLOps**
-- ⚡ Bias toward **shipping** — not just planning
+### Key Highlights
+
+- **Full-Stack Development:** Specialized in building scalable MERN stack applications with production-grade architecture
+- **AI/ML Integration:** Expert in integrating machine learning models into web applications (Computer Vision, Pose Estimation, Object Detection)
+- **Professional Experience:** Currently contributing to enterprise-level projects at NetcoreNepal Pvt. Ltd.
+- **System Design & Architecture:** Strong foundation in designing robust, scalable backend systems
+- **Innovation Focus:** Developing AI-powered solutions for real-world problems (Wildlife detection, AI fitness training, etc.)
 
 ---
 
@@ -66,21 +74,21 @@ const reyansh = {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
 
-**Backend**
+**Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Database**
+**Database & Storage**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**AI / ML**
+**AI / Machine Learning**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -89,16 +97,16 @@ const reyansh = {
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 
-**Tools & DevOps**
+**DevOps & Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -109,9 +117,15 @@ const reyansh = {
 <td width="50%" valign="top">
 
 ### 💪 AI Fitness Trainer
-> Real-time workout coach using MediaPipe pose estimation and Three.js 3D visualization — tracks reps, corrects form, and renders your body skeleton live in the browser.
+Real-time fitness coaching platform leveraging MediaPipe for pose estimation and Three.js for 3D visualization. Provides real-time rep counting, form correction, and performance analytics.
 
-**Tech:** Python · MediaPipe · Three.js · JavaScript · FastAPI
+**Tech Stack:** Python · MediaPipe · Three.js · JavaScript · FastAPI
+
+**Key Features:**
+- Real-time pose tracking & analysis
+- Automated rep counting
+- Form correction feedback
+- Performance metrics dashboard
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/ai-fitness-trainer)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://ai-fitness-trainer.vercel.app)
@@ -120,9 +134,15 @@ const reyansh = {
 <td width="50%" valign="top">
 
 ### 🦁 Wildlife Detection System
-> Automated wildlife species detection using YOLOv8 object detection and a FastAPI backend — built for real-world ecological monitoring with high accuracy inference.
+Production-ready computer vision application for automated wildlife species identification and monitoring. Built with YOLOv8 for object detection and FastAPI for scalable backend infrastructure.
 
-**Tech:** Python · YOLOv8 · FastAPI · OpenCV · NumPy
+**Tech Stack:** Python · YOLOv8 · FastAPI · OpenCV · NumPy
+
+**Key Features:**
+- Real-time species detection
+- High-accuracy inference
+- Ecological monitoring integration
+- Batch processing capabilities
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/wildlife-detection)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://wildlife-detection-web.vercel.app)
@@ -133,9 +153,15 @@ const reyansh = {
 <td width="50%" valign="top">
 
 ### 🌐 Cyberpunk Portfolio
-> Personal portfolio with 3D interactive visuals, live GitHub API integration, and a hacker terminal aesthetic built with Three.js.
+Professional portfolio website featuring interactive 3D visuals, live GitHub API integration, and terminal-style UI. Showcases advanced frontend capabilities and creative design.
 
-**Tech:** Three.js · JavaScript · GitHub API · CSS3
+**Tech Stack:** Three.js · JavaScript · GitHub API · CSS3
+
+**Key Features:**
+- Interactive 3D environment
+- Live GitHub statistics
+- Real-time API integration
+- Responsive design
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/portfolio)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://reyanshyadav.com.np/)
@@ -144,9 +170,15 @@ const reyansh = {
 <td width="50%" valign="top">
 
 ### 🎬 Mac-book Terminal
-> Play the iconic Bad Apple!! animation directly in your terminal — a creative showcase of Node.js streams and real-time CLI rendering.
+Creative CLI project demonstrating advanced Node.js streaming capabilities. Renders the Bad Apple animation in terminal with optimized performance and memory management.
 
-**Tech:** Node.js · JavaScript · CLI · Streams
+**Tech Stack:** Node.js · JavaScript · CLI · Streams
+
+**Key Features:**
+- Real-time frame rendering
+- Stream-based architecture
+- Performance optimized
+- Cross-platform compatibility
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/bad-apple-nodejs)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://macbook-terminal.vercel.app)
@@ -157,9 +189,15 @@ const reyansh = {
 <td width="50%" valign="top">
 
 ### 🤖 Nexus Discord Bot
-> Feature-rich Discord bot with real-time tracking, notifications, and server management capabilities — actively used across multiple Discord servers.
+Feature-rich Discord bot with real-time monitoring, server management, and notification capabilities. Deployed across multiple production servers with high reliability.
 
-**Tech:** Node.js · Discord.js · JavaScript · REST APIs
+**Tech Stack:** Node.js · Discord.js · JavaScript · REST APIs
+
+**Key Features:**
+- Real-time tracking & alerts
+- Server management tools
+- Custom command framework
+- High uptime reliability
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/nexus-discord-bot)
 ![Stars](https://img.shields.io/github/stars/Reyansh-yad/nexus-discord-bot?style=flat-square&color=F7DF1E)
@@ -168,9 +206,15 @@ const reyansh = {
 <td width="50%" valign="top">
 
 ### ⚙️ Dotfiles
-> My personal dev environment — clean, version-controlled shell configs and tooling for a fully reproducible workspace on any machine.
+Professionally maintained development environment configuration. Version-controlled shell configs, tool configurations, and setup scripts for reproducible development workflows across machines.
 
-**Tech:** Shell · Bash · Linux · Zsh · Vim
+**Tech Stack:** Shell · Bash · Linux · Zsh · Vim
+
+**Key Features:**
+- Reproducible environment setup
+- Custom shell functions & aliases
+- Tool configuration management
+- Documentation & guides
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/dotfiles)
 ![Stars](https://img.shields.io/github/stars/Reyansh-yad/dotfiles?style=flat-square&color=F7DF1E)
@@ -209,36 +253,37 @@ const reyansh = {
 
 ---
 
-## 🏅 Achievements & Certifications
+## 📜 Certifications & Achievements
 
 <div align="center">
 
-| 🏆 Achievement | 📋 Details |
+| Achievement | Issuer / Details |
 |---|---|
 | 📊 **Data Analyst Associate** | DataCamp Certified |
-| 🤖 **AI Agents Intensive** | 5-Day Program · Google |
-| 🐍 **Python Programming** | Microsoft Certification |
-| 💼 **Internship-Validated** | Full-Stack @ NetcoreNepal Pvt. Ltd. |
-| 🌍 **Open Source Contributor** | Active GitHub Contributor |
-| 🧩 **Problem Solver** | Algorithmic & Systems Thinking |
+| 🤖 **AI Agents Intensive Program** | 5-Day Intensive · Google |
+| 🐍 **Python Programming Certification** | Microsoft Learn Certified |
+| 💼 **Professional Internship** | Full-Stack Development · NetcoreNepal Pvt. Ltd. |
+| 🌍 **Open Source Contributor** | Active member of GitHub community |
+| 🏅 **Problem Solver** | Algorithmic & Systems Thinking |
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Professional Objectives
 
 ```
-🔥  Building AI-powered web applications (MediaPipe + Three.js + FastAPI)
-🏗️  Learning advanced system design & backend architecture
-☁️  Exploring cloud technologies (AWS, GCP)
-🤝  Contributing to open source projects
-📖  Deepening ML knowledge — computer vision & real-time inference
+✓ Developing scalable AI-powered web applications
+✓ Mastering advanced system design & cloud architecture
+✓ Exploring modern DevOps practices & containerization
+✓ Contributing to high-impact open source projects
+✓ Deepening expertise in computer vision & ML deployment
+✓ Building production-grade applications with real-world impact
 ```
 
 ---
 
-## 📬 Connect With Me
+## 📬 Professional Connections
 
 <div align="center">
 
@@ -256,5 +301,5 @@ const reyansh = {
 ---
 
 <div align="center">
-  <sub>💼 Open to full-time roles & internships · Let's build something worth using · reyansh7004@gmail.com</sub>
+  <sub>📧 Available for full-time opportunities, contract work & open source collaborations | reyansh7004@gmail.com</sub>
 </div>
