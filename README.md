@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reyansh%20Yadav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Nepal&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reyansh%20Yadav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=30" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=640&lines=MERN+Stack+Developer+%F0%9F%9A%80;Computer+Vision+%26+ML+Engineer+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Building+AI-Powered+Web+Apps+%F0%9F%94%A5;Interning+%40+NetcoreNepal+Pvt.+Ltd." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=640&lines=MERN+Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+Engineer+%E2%9C%A8" />
 
 <br/>
 
@@ -19,7 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyanshyadavnec)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://reyanshyadav.com.np/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reyansh7004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reyansh-Khobragade)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reyansh-yad)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 </div>
@@ -113,8 +113,8 @@ const reyansh = {
 
 **Tech:** Python · MediaPipe · Three.js · JavaScript · FastAPI
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-Khobragade)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](#)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/ai-fitness-trainer)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://ai-fitness-trainer.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -124,8 +124,8 @@ const reyansh = {
 
 **Tech:** Python · YOLOv8 · FastAPI · OpenCV · NumPy
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-Khobragade)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](#)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/wildlife-detection)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://wildlife-detection-web.vercel.app)
 
 </td>
 </tr>
@@ -137,7 +137,7 @@ const reyansh = {
 
 **Tech:** Three.js · JavaScript · GitHub API · CSS3
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-Khobragade/portfolio)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/portfolio)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://reyanshyadav.com.np/)
 
 </td>
@@ -148,8 +148,8 @@ const reyansh = {
 
 **Tech:** Node.js · JavaScript · CLI · Streams
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://macbook-three-kappa.vercel.app)
-![Stars](https://img.shields.io/github/stars/Reyansh-Khobragade/bad-apple-nodejs?style=flat-square&color=F7DF1E)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/bad-apple-nodejs)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://macbook-terminal.vercel.app)
 
 </td>
 </tr>
@@ -161,8 +161,8 @@ const reyansh = {
 
 **Tech:** Node.js · Discord.js · JavaScript · REST APIs
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-Khobragade/rey-stalker)
-![Stars](https://img.shields.io/github/stars/Reyansh-Khobragade/rey-stalker?style=flat-square&color=F7DF1E)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/nexus-discord-bot)
+![Stars](https://img.shields.io/github/stars/Reyansh-yad/nexus-discord-bot?style=flat-square&color=F7DF1E)
 
 </td>
 <td width="50%" valign="top">
@@ -172,8 +172,8 @@ const reyansh = {
 
 **Tech:** Shell · Bash · Linux · Zsh · Vim
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-Khobragade/dotfiles)
-![Stars](https://img.shields.io/github/stars/Reyansh-Khobragade/dotfiles?style=flat-square&color=F7DF1E)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/dotfiles)
+![Stars](https://img.shields.io/github/stars/Reyansh-yad/dotfiles?style=flat-square&color=F7DF1E)
 
 </td>
 </tr>
@@ -185,17 +185,17 @@ const reyansh = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Reyansh-Khobragade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Reyansh-yad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyansh-Khobragade&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyansh-yad&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Reyansh-Khobragade&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://streak-stats.demolab.com?user=Reyansh-yad&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reyansh-Khobragade&theme=tokyo-night&hide_border=true&area=true&radius=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reyansh-yad&theme=tokyo-night&hide_border=true&area=true&radius=8" />
 
 </div>
 
@@ -204,7 +204,7 @@ const reyansh = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Reyansh-Khobragade&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Reyansh-yad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
@@ -245,7 +245,7 @@ const reyansh = {
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyanshyadavnec)
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://reyanshyadav.com.np/)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reyansh7004@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reyansh-Khobragade)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reyansh-yad)
 
 <br/>
 
