@@ -172,7 +172,7 @@ Advanced terminal emulator project demonstrating sophisticated CLI rendering, re
 - Cross-platform compatibility
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reyansh-yad/Mac-book)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](macbook-three-kappa.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://macbook-three-kappa.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
